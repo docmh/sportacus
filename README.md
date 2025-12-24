@@ -1,5 +1,5 @@
 # sportacus
-Prompt zum custom GPT "Sportacus"
+Den Prompt zum custom GPT "Sportacus" findest du in der Datei `sportacus_prompt.md`. 
 
 Personalisiere diesen Prompt und erstelle einen Custom GPT auf ChatGPT oder ein Gem auf Gemini. 
 
